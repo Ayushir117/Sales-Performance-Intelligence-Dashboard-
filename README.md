@@ -43,11 +43,11 @@ The primary goal is to analyze key indicators for pizza sales data to gain insig
 1. **Daily Trend Analysis**
    - Bar chart displaying daily order patterns
    - Identifies peak and low-demand days
-   - **Key Insight**: Highest orders on Friday/Saturday evenings
+   - **Key Insight**: Highest orders on Thursday-Saturday evenings
 
 2. **Hourly Trend Analysis**
    - Line chart showing hourly order distribution
-   - Identifies peak ordering hours (12-1pm and 5-8pm)
+   - Identifies peak ordering hours (12-1pm and 4-8pm)
    - Supports staffing and inventory planning
 
 3. **Sales Distribution by Category**
@@ -64,7 +64,7 @@ The primary goal is to analyze key indicators for pizza sales data to gain insig
    - Funnel chart showing total pizzas sold by category
 
 6. **Timeline Analysis**
-   - Interactive date slicer for quarterly analysis (2015-2017)
+   - Interactive date slicer for monthly basis
    - Enables period-specific performance evaluation
 
 ## 🛠️ Tools & Technologies
@@ -77,7 +77,7 @@ The primary goal is to analyze key indicators for pizza sales data to gain insig
 ## 🔍 Key Insights & Findings
 
 ### Operational Insights:
-- **Peak Days**: Friday and Saturday evenings show highest order volumes
+- **Peak Days**: Friday , Thursday and Saturday evenings show highest order volumes
 - **Peak Hours**: 12-1pm (lunch) and 5-8pm (dinner) are maximum order times
 - **Size Preference**: Large pizzas dominate sales (45.89% of total sales)
 
@@ -87,7 +87,7 @@ The primary goal is to analyze key indicators for pizza sales data to gain insig
 - **Underperformers**: Specialty items like Brie Carre need attention
 
 ### Business Recommendations:
-- Optimize staffing during peak hours (12-1pm, 5-8pm)
+- Optimize staffing during peak hours (12-1pm, 4-8pm)
 - Focus inventory on large-size pizzas
 - Promote underperforming specialty items
 - Leverage weekend marketing for maximum impact
